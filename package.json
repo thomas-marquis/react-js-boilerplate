@@ -1,7 +1,7 @@
 {
-  "name": "quelfilm-web",
+  "name": "react-js-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Reactjs boilerplate with emotions and material-ui. Redux or unit tests are not configured.",
   "main": "index.js",
   "scripts": {
     "buil:prod": "webpack --mode=production",
@@ -11,8 +11,8 @@
     "run:dev": "npm run build:dev && npm run run:node",
     "start:dev": "webpack-dev-server --hot"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react", "js", "node", "ejs", "webpack", "boilerplate", "express", "emotion", "material-ui"],
+  "author": "Thomas Marquis",
   "license": "ISC",
   "dependencies": {
     "@material-ui/core": "^3.6.2",
