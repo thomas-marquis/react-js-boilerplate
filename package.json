@@ -11,7 +11,17 @@
     "run:dev": "npm run build:dev && npm run run:node",
     "start:dev": "webpack-dev-server --hot"
   },
-  "keywords": ["react", "js", "node", "ejs", "webpack", "boilerplate", "express", "emotion", "material-ui"],
+  "keywords": [
+    "react",
+    "js",
+    "node",
+    "ejs",
+    "webpack",
+    "boilerplate",
+    "express",
+    "emotion",
+    "material-ui"
+  ],
   "author": "Thomas Marquis",
   "license": "ISC",
   "dependencies": {
